@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Mauboru/Mauboru/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/Mauboru/Mauboru/blob/dist/github-contribution-grid-snake.svg)
