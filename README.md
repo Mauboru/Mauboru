@@ -1,5 +1,5 @@
 ## Olá eu sou Josué Henrique, seja bem-vindo(a)!
-### Acesse meu WebSite -> https://mauboru.github.io
+### Acesse meu WebSite -> https://mauboru.github.io/meu-site
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&showicons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
