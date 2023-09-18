@@ -7,17 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&showicons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&showicons=true&theme=transparent" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
