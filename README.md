@@ -1,7 +1,7 @@
 ## Eae! Eu sou Josué Henrique, seja bem-vindo(a)!
 
-➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity)
-➽ Pacote Office - **Avançado** (AppScript e VBA)
+➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity) <br>
+➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
 ➽ Experiência em Integrações em **Python**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent)
