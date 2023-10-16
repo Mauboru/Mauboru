@@ -4,8 +4,10 @@
 ➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
 ➽ Experiência em Integrações em **Python**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&showicons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&showicons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/javascript-logo-240.png?raw=true">
