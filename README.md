@@ -8,11 +8,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&showicons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="">
+  <img align="center" alt="Js" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/javascript-logo-240.png?raw=true">
   <img align="center" alt="HTML" height="30" width="40" src="">
   <img align="center" alt="CSS" height="30" width="40" src="">
   <img align="center" alt="Python" height="30" width="40" src="">
-  <img aling="center" alt="SQLite" height="30" width="40" src="">
+  <img aling="center" alt="SQLite" height="30" width="40" src="https://www.opc-router.de/wp-content/uploads/2018/03/icon_sqlite_Database_128.png">
   <img aling="center" alt="MySQL" height="30" width="40" src="">
   <img align="center" alt="Java" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/java-logo-240%20(1).png?raw=true">
 </div>
