@@ -14,7 +14,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img aling="center" alt="SQLite" height="30" width="40" src="">
   <img aling="center" alt="MySQL" height="30" width="40" src="">
-  <img aling="center" alt="Java" height="30" width="40" src="https://e1.pngegg.com/pngimages/211/874/png-clipart-ios-7-8-style-icons-for-java-java7vm-thumbnail.png">
+  <img aling="center" alt="Java" height="30" width="40" src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=6&origin=search&related_id=226777">
 </div>
 <br><br><br>
 <div>
