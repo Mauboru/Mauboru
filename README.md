@@ -14,7 +14,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img aling="center" alt="SQLite" height="30" width="40" src="">
   <img aling="center" alt="MySQL" height="30" width="40" src="">
-  <box-icon type='logo' name='java'></box-icon>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAbhJREFUSEu11E2IzXEUxvHPmLHyMpINk4WNjQYhVhamzFgoGwuL2U0pJSmUpWRjQ5GVko1SIxvZGFmgjGYxSc1EWZgUNZO3yPtLR4eu2537u/fO3F/dbrf//3e+5zzPc0+HNp+ONtc3F0A/bpUabBWwEAdwrl2A/ZjA/XYAtmT3Q6Xi8bxZiY5hL3ZjLZbhAV7PBmsGcApbMYjzOIOHpSkaBYQcR7AZl3Adw6XizUh0GlO4gFcYwKP5BGzEPhzHTSzFDnwvQRqVKOqERFfRhWcJuDefgKi1EyO4iIP4koBtmEnwf8x6E6zDHlzBC/zIm/Ev7sY3/MSvBF3DITyvJNQDbEfkfhKfqqR4m/rHNE/y2VncwJ1GAfHeksx9SFJp6AqsxngWi2b6cDIn+scomRyGHsZi9GI5FmVUR3EZX7EGY7UMLwHiTg8+4F0pMa0CdmX+Y9/EBHFWZmRPVEtSDak1QSywo7iLx3iZlzqxAW8yKZGgvye8WlVheF0PNiEWW5ynuSkX1Bg/Yvs5IxrQ2KofKxr6c6XkQZi8PldDvB+/Q574RMfx/R7TGc/bjUjUipez3ilNMGfYb6nIUhnyKWBMAAAAAElFTkSuQmCC"/>
 </div>
 <br><br><br>
 <div>
