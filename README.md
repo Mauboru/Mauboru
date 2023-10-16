@@ -9,11 +9,11 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/javascript-logo-240.png?raw=true">
-  <img align="center" alt="HTML" height="40" width="40" src="">
-  <img align="center" alt="CSS" height="40" width="40" src="">
-  <img align="center" alt="Python" height="40" width="40" src="">
-  <img aling="center" alt="SQLite" height="40" width="40" src="https://www.opc-router.de/wp-content/uploads/2018/03/icon_sqlite_Database_128.png">
-  <img aling="center" alt="MySQL" height="40" width="40" src="">
+  <img align="center" alt="HTML" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/html5-logo-240%20(1).png?raw=true">
+  <img align="center" alt="CSS" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/css3-logo-240.png?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/python-logo-240.png?raw=true">
+  <img aling="center" alt="SQLite" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/SQLite-Logo-1.png?raw=true">
+  <img aling="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/Mauboru/icons/aefcb3649778823ecc8deed6ea5dc191481296b7/mysql-logo.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/java-logo-240%20(1).png?raw=true">
 </div>
 <br><br><br>
