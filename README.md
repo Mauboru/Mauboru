@@ -14,7 +14,7 @@
   <img align="center" alt="Python" height="30" width="40" src="">
   <img aling="center" alt="SQLite" height="30" width="40" src="">
   <img aling="center" alt="MySQL" height="30" width="40" src="">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/Mauboru/icons/blob/main/java-logo-240%20(1).png?raw=true">
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/Mauboru/icons/blob/main/java-logo-240%20(1).png?raw=true">
 </div>
 <br><br><br>
 <div>
