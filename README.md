@@ -14,7 +14,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img aling="center" alt="SQLite" height="30" width="40" src="">
   <img aling="center" alt="MySQL" height="30" width="40" src="">
-  <img aling="center" alt="Java" height="30" width="40" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png">
+  <box-icon type='logo' name='java'></box-icon>
 </div>
 <br><br><br>
 <div>
