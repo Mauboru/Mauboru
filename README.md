@@ -5,7 +5,7 @@
 ➽ Experiência em Integrações em **Python**
 
 <div align="center">
-  <a href="https://github.com/Mauboru">
+  <a href="https://github.com/mauboru">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
 </div>
