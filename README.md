@@ -10,9 +10,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
+<!--
 ## Experiência de trabalho
 
-<!--
 [<img align="left" height="94px" width="94px" alt="" src=""/>]
 
 _Insira o seu titulo_ \
