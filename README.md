@@ -1,4 +1,4 @@
-## Eae! Eu sou Josué Henrique, seja bem-vindo(a)!
+## Olá! Eu sou Josué Henrique, seja bem-vindo(a)!
 
 ➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity) <br>
 ➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
