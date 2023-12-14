@@ -128,6 +128,9 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mauboru&label=Profile%20Views&color=1&icon=8&pretty=true" />
