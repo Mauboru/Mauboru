@@ -82,6 +82,12 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mauboru&bg_color=010409&color=4b7b9e&line=4289a8&point=4965e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mauboru}/count.svg" /></p> 
+<br>
+</div>
+
 <br><br><br>
 <div>
   <a href = "mailto:josue21servico@gmail.com">
