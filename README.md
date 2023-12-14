@@ -87,7 +87,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 <div style="display: flex; align-items: center;">
   <img height="30" width="40" src="https://www.gimp.org/images/frontpage/wilber-big.png">
   <img height="30" width="40" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg">
-  <img height="30" width="40" src="https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/ies/lvweb_os_monorepo/platformSSR/63fa571e90712779-255.png">
+  <img height="30" width="40" src="https://pt.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png">
 </div>
 <br/>
 
