@@ -132,7 +132,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mauboru}/count.svg" /></p> 
+<p align="center">[![](https://visitcount.itsvg.in/api?id=mauboru&icon=8&color=1)](https://visitcount.itsvg.in)</p> 
 <br>
 </div>
 
@@ -145,10 +145,3 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=mauboru&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=mauboru&icon=8&color=1)](https://visitcount.itsvg.in)
