@@ -6,7 +6,7 @@
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Josu%C3%A9+Henrique%2C+seja+bem-vindo(a))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Josu%C3%A9+Henrique!;Seja+bem-vindo(a)!!)](https://git.io/typing-svg)
 
 ➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity) <br>
 ➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
