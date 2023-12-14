@@ -9,6 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Josu%C3%A9+Henrique!;Seja+bem-vindo(a)!!)](https://git.io/typing-svg)
 
+# 💫Sobre mim :
 ➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity) <br>
 ➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
 ➽ Experiência em Integrações em **Python**
@@ -36,7 +37,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 ## Habilidades
 <br/>
 
-**Front-End**
+**Linguagens**
 <br/>
 
 <div style="display: flex; align-items: center;">
@@ -45,18 +46,26 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-**Back-End**
-<br/>
-
-<div style="display: flex; align-items: center;">
 <!--   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <!--   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+<!--
+**HOSTING/SaaS**
+<br/>
+<div style="display: flex; align-items: center;">
+  
+</div>
+-->
+
+**FRAMEWORKS, PLATFORMS & LIBRARIES**
+<br/>
+<div style="display: flex; align-items: center;">
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 </div>
 
 <!--
@@ -97,3 +106,23 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) SKETCH ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=mauboru&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mauboru&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=mauboru&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mauboru&icon=8&color=1)](https://visitcount.itsvg.in)
+
