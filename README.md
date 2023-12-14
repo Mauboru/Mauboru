@@ -16,21 +16,7 @@
 
 <br/>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; margin: 10px;">
-    <a href="https://github.com/mauboru">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    </a>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
-    </a>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
-  </div>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 
 <!--
 ## Experiência de trabalho
@@ -131,6 +117,12 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 
 <br/>
 <br/>
+
+<div align="center">
+  <a href="https://github.com/mauboru">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
