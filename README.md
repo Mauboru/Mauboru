@@ -60,7 +60,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 **Frameworks, Platforms & Libraries**
 <br/>
 <div style="display: flex; align-items: center;">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> -->
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br/>
@@ -86,6 +86,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 <br/>
 <div style="display: flex; align-items: center;">
   <img height="30" width="40" src="https://www.gimp.org/images/frontpage/wilber-big.png">
+  <img height="30" width="40" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg">
 </div>
 <br/>
 
