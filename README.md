@@ -65,7 +65,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 **FRAMEWORKS, PLATFORMS & LIBRARIES**
 <br/>
 <div style="display: flex; align-items: center;">
-   <img height="30" width="40" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+   <img height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
 </div>
 <br/>
 
