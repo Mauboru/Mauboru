@@ -4,6 +4,7 @@
   # Typer - (https://readme-typing-svg.herokuapp.com/demo/)
   # Stats - (https://github-readme-streak-stats.herokuapp.com/demo/)
   # Grafico - (https://ashutosh00710.github.io/github-readme-activity-graph/)
+  # VisitCount - (https://visitcount.itsvg.in/)
 
 -->
 
@@ -121,12 +122,12 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mauboru&bg_color=010409&color=4b7b9e&line=4289a8&point=4965e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">[![](https://visitcount.itsvg.in/api?id=mauboru&icon=8&color=1)]</p> 
-<br>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mauboru&label=Profile%20Views&color=1&icon=8&pretty=true" />
+</a>
 </div>
+<br/>
 
-<br><br><br>
 <div>
   <a href = "mailto:josue21servico@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
