@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/mauboru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>[
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> -->
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
 </div>
