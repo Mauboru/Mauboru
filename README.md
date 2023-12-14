@@ -16,7 +16,7 @@
 
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&border=0&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 
 <!--
 ## Experiência de trabalho
