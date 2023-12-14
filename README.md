@@ -104,7 +104,6 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 <br/>
 <div style="display: flex; align-items: center;">
   <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 <br/>
@@ -123,7 +122,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">[![](https://visitcount.itsvg.in/api?id=mauboru&icon=8&color=1)](https://visitcount.itsvg.in)</p> 
+<p align="center">[![](https://visitcount.itsvg.in/api?id=mauboru&icon=8&color=1)]</p> 
 <br>
 </div>
 
