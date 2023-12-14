@@ -1,4 +1,12 @@
-## Olá! Eu sou Josué Henrique, seja bem-vindo(a)!
+<!-- 
+  ## Links de onde usei para fazer meu readme
+
+  # Typer - (https://readme-typing-svg.herokuapp.com/demo/)
+  # Stats - (https://github-readme-streak-stats.herokuapp.com/demo/)
+
+-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Josu%C3%A9+Henrique%2C+seja+bem-vindo(a))](https://git.io/typing-svg)
 
 ➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity) <br>
 ➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
