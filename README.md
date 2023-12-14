@@ -10,16 +10,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Josu%C3%A9+Henrique!;Seja+bem-vindo(a)!!)](https://git.io/typing-svg)
 
-# 💫Sobre mim :
 ➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity) <br>
 ➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
 ➽ Experiência em Integrações em **Python**
 
-<div align="center">
-  <a href="https://github.com/mauboru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+<br/>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; margin: 10px;">
+    <a href="https://github.com/mauboru">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    </a>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div style="flex: 1; margin: 10px;">
     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
+  </div>
 </div>
 
 <!--
@@ -119,7 +129,8 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 </div>
  -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mauboru&bg_color=010409&color=4b7b9e&line=4289a8&point=4965e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+<br/>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
