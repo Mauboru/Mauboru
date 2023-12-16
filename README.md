@@ -132,9 +132,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 <br/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mauboru&label=Profile%20Views&color=1&icon=8&pretty=true" />
-</a>
+  <img src="https://visitcount.itsvg.in/api?id=mauboru&label=Profile%20Views&color=1&icon=8&pretty=true"/>
 </div>
 <br/>
 
