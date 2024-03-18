@@ -8,11 +8,12 @@
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&pause=1000&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Josu%C3%A9+Henrique!;Seja+bem-vindo(a)!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Josu%C3%A9+Henrique;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
-➽ Desenvolvedor de Jogos - **Intermediário** (GMS2 e Unity) <br>
-➽ Pacote Office - **Avançado** (AppScript e VBA)<br>
-➽ Experiência em Integrações em **Python**
+➽ Game Developer - **Intermediary** (GMS2 e Unity) <br>
+➽ Office Pack - **Advanced** (AppScript e VBA)<br>
+➽ Python Developer **Intermediary**<br>
+➽ Data Analystics **Intermediary** (Power BI)
 
 <br/>
 
@@ -35,10 +36,10 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 
 -->
 
-## Habilidades
+## Skills
 <br/>
 
-**Linguagens**
+**Languages**
 <br/>
 <div style="display: flex; align-items: center;">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -108,7 +109,7 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 <br/>
 -->
 
-**Outros**
+**Others**
 <br/>
 <div style="display: flex; align-items: center;">
   <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
