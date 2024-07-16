@@ -109,23 +109,22 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
 <br/>
 -->
 
-**Others**
-<br/>
-<div style="display: flex; align-items: center;">
-  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
-<br/>
-
-<!--
 **Internet das Coisas**
 <br/>
 
 <div style="display: flex; align-items: center;">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img height="30" width="40" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg">
 </div>
- -->
+<br/>
+
+**Others**
+<br/>
+<div style="display: flex; align-items: center;">
+  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
 
 <br/>
 <br/>
