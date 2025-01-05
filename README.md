@@ -12,7 +12,9 @@
 
 ➽ Game Developer - **Intermediary** (GMS2 e Unity) <br>
 ➽ Office Pack - **Advanced** (AppScript e VBA)<br>
-➽ Python Developer **Beginner**<br>
+➽ C++/C# Developer **Intermediary**<br>
+➽ JS/TS Developer **Intermediary**<br>
+➽ Python Developer **Intermediary**<br>
 ➽ Data Analystics **Intermediary** (Power BI)
 
 <br/>
