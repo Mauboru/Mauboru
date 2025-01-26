@@ -102,11 +102,3 @@ Projetos em destaque: [Sistema Smart Harpia](https://www.linkedin.com/posts/josu
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mauboru&label=Profile%20Views&color=1&icon=8&pretty=true"/>
-</div>
-<br/>
