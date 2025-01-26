@@ -12,9 +12,7 @@
 
 ➽ Game Developer - **Intermediary** (GMS2 e Unity) <br>
 ➽ Office Pack - **Advanced** (AppScript e VBA)<br>
-➽ C++/C# Developer **Intermediary**<br>
-➽ JS/TS Developer **Intermediary**<br>
-➽ Python Developer **Intermediary**<br>
+➽ C++/C#, JS/TS, Python, PhP **Intermediary**<br>
 ➽ Data Analystics **Intermediary** (Power BI)
 
 <br/>
@@ -25,18 +23,15 @@
   </a>
 </div>
 
-<!--
 ## Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="" src=""/>]
 
 _Insira o seu titulo_ \
-[_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Contrato \
+[_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Bolsista \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `Python`, `TypeScript`\
-Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-campus-paranagu%C3%A1-5b4547271/), [SITEC](https://www.instagram.com/sitec2023/)
+Projetos em destaque: [Incubadora](https://www.linkedin.com/posts/josue-henrique_sistema-web-para-vitrine-de-projetos-incubadora-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
 <br/>
-
--->
 
 ## Skills
 <br/>
@@ -49,17 +44,16 @@ Projetos em destaque: [Incubadora](https://www.linkedin.com/in/incubadora-ifpr-c
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 <br/>
 
-<!--
 **HOSTING/SaaS**
 <br/>
 <div style="display: flex; align-items: center;">
-  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 <br/>
--->
 
 **Frameworks, Platforms & Libraries**
 <br/>
