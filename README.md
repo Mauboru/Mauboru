@@ -25,7 +25,7 @@
 
 ## Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="" src=""/>]
+[<img align="left" height="94px" width="94px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4ER18z6qjLkd3GxlO0O6yfEpGLyxK8CHZg&s"/>]
 
 _Insira o seu titulo_ \
 [_IFPR Paranaguá_](https://ifpr.edu.br/paranagua/) • Bolsista \
