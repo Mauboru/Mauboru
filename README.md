@@ -75,34 +75,21 @@ Projetos em destaque: [Sistema Smart Harpia](https://www.linkedin.com/posts/josu
 </div>
 <br/>
 
-**Servers**
+**Servers & Databases**
 <br/>
 <div style="display: flex; align-items: center;">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-</div>
-<br/>
-
-
-**Databases**
-<br/>
-<div style="display: flex; align-items: center;">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 <br/>
 
-**Design**
+**Design & Others**
 <br/>
 <div style="display: flex; align-items: center;">
   <img height="30" width="40" src="https://www.gimp.org/images/frontpage/wilber-big.png">
   <img height="30" width="40" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg">
   <img height="30" width="30" src="https://pt.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png">
-</div>
-<br/>
-
-**Others**
-<br/>
-<div style="display: flex; align-items: center;">
   <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
