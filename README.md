@@ -32,6 +32,12 @@ Languages & Technologies: `JavaScript`, `Node`, `React`, `Python`, `TypeScript`,
 Featured projects: [Sistema Smart Harpia](https://www.linkedin.com/posts/josue-henrique_sistema-web-para-vitrine-de-projetos-incubadora-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
 <br/>
 
+_InfoTech_ \
+[_Paranaguá_](https://www.infotech-solucoes.com/) • Programmer \
+Languages & Technologies: `Laravel`, `Node`, `Python`, `TypeScript`, `Vue.js`\
+Featured projects: [Framework WEB](em desenvolvimento)
+<br/>
+
 ## Skills
 <br/>
 
