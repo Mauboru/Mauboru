@@ -37,7 +37,7 @@ Featured projects: [Sistema Smart Harpia](https://www.linkedin.com/posts/josue-h
 _InfoTech_ \
 [_Paranaguá_](https://www.infotech-solucoes.com/) • Programmer \
 Languages & Technologies: `Laravel`, `Vue`, `Node`, `Python`, `TypeScript`\
-Featured projects: [Framework-WEB (developing)]
+Featured projects: [Framework-WEB (https://fw.infotech-solucoes.com/login?to=/dashboards)]
 <br/>
 
 ## Skills
