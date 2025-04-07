@@ -36,7 +36,7 @@ Featured projects: [Sistema Smart Harpia](https://www.linkedin.com/posts/josue-h
 
 _InfoTech_ \
 [_Paranaguá_](https://www.infotech-solucoes.com/) • Programmer \
-Languages & Technologies: `Laravel`, `Vue`, `Node`, `Python`, `TypeScript`\
+Languages & Technologies: `Laravel`, `Vue`, `Node`, `Python`, `TypeScript`, `C++`\
 Featured projects: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards)
 <br/>
 
@@ -79,7 +79,7 @@ Featured projects: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/da
 <br/>
 <div style="display: flex; align-items: center;">
   <img height="30" width="30" src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e.ico" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  <img height="30" width="30" src="https://images.icon-icons.com/1495/PNG/512/godot_103035.png" />
 </div>
 <br/>
 
