@@ -20,6 +20,11 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&border=0&locale=pt_BR&mode=weekly&hide_border=true" alt="GitHub Streak" />
   </a>
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=mauboru&show_icons=true&theme=tokyonight" alt="mauboru's GitHub stats" />
+  </a>
+</div>
+
 </div>
 
 ## Professional Experience
@@ -100,13 +105,4 @@ Featured projects: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/da
   <img height="30" width="30" src="https://pt.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png">
   <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <a href="https://github.com/mauboru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauboru&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauboru&layout=compact&langs_count=7&theme=transparent"/>
 </div>
